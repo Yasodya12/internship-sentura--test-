@@ -3,7 +3,7 @@ package org.example;
 
 
 
-@SpringBootApplication
+
 public class WebAppInitializer {
 
 
